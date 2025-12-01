@@ -46,7 +46,7 @@ Developed by: RegisterNumber:*/
 
 **Output:**
  F1(Waveform) : 
-<img width="1920" height="1020" alt="WAVEFORM" src="https://github.com/user-attachments/assets/7e0dbd79-4eca-4b54-8424-7b9390102f22" 
+<img width="1920" height="1020" alt="WAVEFORM" src="https://github.com/user-attachments/assets/7e0dbd79-4eca-4b54-8424-7b9390102f22"/>
  F2(Waveform) : 
 <img width="1920" height="1020" alt="Waveform2 (2)" src="https://github.com/user-attachments/assets/79cbb037-e269-446b-87bf-0b3d25cfdb20" />
 
