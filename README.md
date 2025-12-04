@@ -40,21 +40,14 @@ RegisterNumber:25016274
 
 
 **RTL realization**
+**Output:**
 <img width="1920" height="1020" alt="RTL Diagram" src="https://github.com/user-attachments/assets/02e2ac71-962b-4015-96b8-0a05e366d86d" />
 <img width="1920" height="1020" alt="RTL" src="https://github.com/user-attachments/assets/e1bffc46-e7a9-4caf-aa74-666dcb23b9f2" />
-
-
-
-**Output:**
- F1(Waveform) : 
-<img width="1920" height="1020" alt="WAVEFORM" src="https://github.com/user-attachments/assets/7e0dbd79-4eca-4b54-8424-7b9390102f22"/>
- F2(Waveform) : 
-<img width="1920" height="1020" alt="Waveform2 (2)" src="https://github.com/user-attachments/assets/79cbb037-e269-446b-87bf-0b3d25cfdb20" />
-
-
-**RTL**
-
 **Timing Diagram**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c78ebcc-6d43-45a8-974d-0419749f9923" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/488529b9-9d4e-4074-811c-559639b32bfd" />
+
 
 **Result:**
 
