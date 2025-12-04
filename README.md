@@ -48,8 +48,7 @@ RegisterNumber:25016274
 <img width="1920" height="1020" alt="RTL" src="https://github.com/user-attachments/assets/e1bffc46-e7a9-4caf-aa74-666dcb23b9f2" />
 
 **Timing Diagram**
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c78ebcc-6d43-45a8-974d-0419749f9923" />
-
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9b9ebc55-316b-46f8-ad5a-b0ae35871138" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/488529b9-9d4e-4074-811c-559639b32bfd" />
 
 
