@@ -46,6 +46,7 @@ RegisterNumber:25016274
 **Output:**
 <img width="1920" height="1020" alt="RTL Diagram" src="https://github.com/user-attachments/assets/02e2ac71-962b-4015-96b8-0a05e366d86d" />
 <img width="1920" height="1020" alt="RTL" src="https://github.com/user-attachments/assets/e1bffc46-e7a9-4caf-aa74-666dcb23b9f2" />
+
 **Timing Diagram**
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4c78ebcc-6d43-45a8-974d-0419749f9923" />
 
