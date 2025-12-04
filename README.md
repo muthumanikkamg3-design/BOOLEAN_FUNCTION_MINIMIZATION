@@ -35,7 +35,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 <img width="1920" height="1020" alt="exp2 program" src="https://github.com/user-attachments/assets/99e2078f-0e69-4553-9421-312fe8d1ac64" />
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1f835b14-f53f-40ab-93e1-ea66116f925c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ef81f199-48a2-448e-bc70-66bf63a700b6" />
 
 
 Developed by: G.Muthu Manikkam 
